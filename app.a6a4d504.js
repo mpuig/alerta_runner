@@ -55597,7 +55597,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 window.$ = _jquery.default; // workaround for https://github.com/parcel-bundler/parcel/issues/333
 
 var TYPESENSE_SERVER_CONFIG = {
-  apiKey: "jV9SJ4AsPq2UGVCHNHcz1agjzOuqAGaB4OWfQtlUhMjG0ldt",
+  apiKey: "dPvh1byqz6JI2Ev9at4bM01k5kmNluhs",
   // Be sure to use an API key that only allows searches, in production
   nodes: [{
     host: "db.alertarunner.com",
@@ -55620,7 +55620,7 @@ var TYPESENSE_SERVER_CONFIG = {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   });
 }
@@ -55628,7 +55628,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   });
 }
@@ -55636,7 +55636,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG['nearestNode'] = {
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   };
 }
@@ -55953,7 +55953,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51362" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50709" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
