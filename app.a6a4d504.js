@@ -55600,8 +55600,8 @@ var TYPESENSE_SERVER_CONFIG = {
   apiKey: "jV9SJ4AsPq2UGVCHNHcz1agjzOuqAGaB4OWfQtlUhMjG0ldt",
   // Be sure to use an API key that only allows searches, in production
   nodes: [{
-    host: "157.245.38.109",
-    port: "8108",
+    host: "db.alertarunner.com",
+    port: "80",
     protocol: "http"
   }],
   numRetries: 8
