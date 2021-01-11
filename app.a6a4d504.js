@@ -55601,7 +55601,7 @@ var TYPESENSE_SERVER_CONFIG = {
   // Be sure to use an API key that only allows searches, in production
   nodes: [{
     host: "db.alertarunner.com",
-    port: "80",
+    port: "8108",
     protocol: "http"
   }],
   numRetries: 8
