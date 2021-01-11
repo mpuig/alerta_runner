@@ -55620,7 +55620,7 @@ var TYPESENSE_SERVER_CONFIG = {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "80",
+    port: "8108",
     protocol: "http"
   });
 }
@@ -55628,7 +55628,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "80",
+    port: "8108",
     protocol: "http"
   });
 }
@@ -55636,7 +55636,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG['nearestNode'] = {
     host: undefined,
-    port: "80",
+    port: "8108",
     protocol: "http"
   };
 }
@@ -55953,7 +55953,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50709" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58763" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
