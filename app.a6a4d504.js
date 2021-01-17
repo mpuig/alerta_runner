@@ -55518,7 +55518,7 @@ var TYPESENSE_SERVER_CONFIG = {
   // Be sure to use an API key that only allows searches, in production
   nodes: [{
     host: "db.alertarunner.com",
-    port: "8108",
+    port: "80",
     protocol: "http"
   }],
   numRetries: 8
@@ -55537,7 +55537,7 @@ var TYPESENSE_SERVER_CONFIG = {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   });
 }
@@ -55545,7 +55545,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG.nodes.push({
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   });
 }
@@ -55553,7 +55553,7 @@ if (undefined) {
 if (undefined) {
   TYPESENSE_SERVER_CONFIG['nearestNode'] = {
     host: undefined,
-    port: "8108",
+    port: "80",
     protocol: "http"
   };
 }
@@ -55830,7 +55830,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55237" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60966" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
