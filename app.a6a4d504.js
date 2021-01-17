@@ -55481,87 +55481,7 @@ var TypesenseInstantsearchAdapter = /*#__PURE__*/function () {
 }();
 
 exports["default"] = TypesenseInstantsearchAdapter;
-},{"@babel/runtime/helpers/interopRequireDefault":"node_modules/@babel/runtime/helpers/interopRequireDefault.js","@babel/runtime/regenerator":"node_modules/@babel/runtime/regenerator/index.js","@babel/runtime/helpers/asyncToGenerator":"node_modules/@babel/runtime/helpers/asyncToGenerator.js","@babel/runtime/helpers/classCallCheck":"node_modules/@babel/runtime/helpers/classCallCheck.js","@babel/runtime/helpers/createClass":"node_modules/@babel/runtime/helpers/createClass.js","./Configuration":"node_modules/typesense-instantsearch-adapter/lib/Configuration.js","typesense":"node_modules/typesense/lib/Typesense.js","./SearchRequestAdapter":"node_modules/typesense-instantsearch-adapter/lib/SearchRequestAdapter.js","./SearchResponseAdapter":"node_modules/typesense-instantsearch-adapter/lib/SearchResponseAdapter.js","./FacetSearchResponseAdapter":"node_modules/typesense-instantsearch-adapter/lib/FacetSearchResponseAdapter.js"}],"images/MusicBrainz_logo.svg":[function(require,module,exports) {
-module.exports = "/MusicBrainz_logo.56090434.svg";
-},{}],"images/amazon_icon.svg":[function(require,module,exports) {
-module.exports = "/amazon_icon.fb05851c.svg";
-},{}],"images/apple_music_icon.svg":[function(require,module,exports) {
-module.exports = "/apple_music_icon.8fdc1e4a.svg";
-},{}],"images/archive_icon.svg":[function(require,module,exports) {
-module.exports = "/archive_icon.b784be40.svg";
-},{}],"images/bandcamp_icon.svg":[function(require,module,exports) {
-module.exports = "/bandcamp_icon.6266a58c.svg";
-},{}],"images/deezer_icon.svg":[function(require,module,exports) {
-module.exports = "/deezer_icon.f1adacb8.svg";
-},{}],"images/generic_song_link_icon.svg":[function(require,module,exports) {
-module.exports = "/generic_song_link_icon.3f8a4f32.svg";
-},{}],"images/google_play_icon.svg":[function(require,module,exports) {
-module.exports = "/google_play_icon.0216bf61.svg";
-},{}],"images/itunes_icon.svg":[function(require,module,exports) {
-module.exports = "/itunes_icon.be478ae7.svg";
-},{}],"images/opengraph_banner.png":[function(require,module,exports) {
-module.exports = "/opengraph_banner.db4b23a5.png";
-},{}],"images/soundcloud_icon.svg":[function(require,module,exports) {
-module.exports = "/soundcloud_icon.2964b0a0.svg";
-},{}],"images/spotify_icon.svg":[function(require,module,exports) {
-module.exports = "/spotify_icon.6db645b3.svg";
-},{}],"images/tidal_icon.svg":[function(require,module,exports) {
-module.exports = "/tidal_icon.5cc519d8.svg";
-},{}],"images/typesense.svg":[function(require,module,exports) {
-module.exports = "/typesense.e0d26264.svg";
-},{}],"images/youtube_icon.svg":[function(require,module,exports) {
-module.exports = "/youtube_icon.1a9cd55a.svg";
-},{}],"images/*.*":[function(require,module,exports) {
-module.exports = {
-  "MusicBrainz_logo": {
-    "svg": require("./MusicBrainz_logo.svg")
-  },
-  "amazon_icon": {
-    "svg": require("./amazon_icon.svg")
-  },
-  "apple_music_icon": {
-    "svg": require("./apple_music_icon.svg")
-  },
-  "archive_icon": {
-    "svg": require("./archive_icon.svg")
-  },
-  "bandcamp_icon": {
-    "svg": require("./bandcamp_icon.svg")
-  },
-  "deezer_icon": {
-    "svg": require("./deezer_icon.svg")
-  },
-  "generic_song_link_icon": {
-    "svg": require("./generic_song_link_icon.svg")
-  },
-  "google_play_icon": {
-    "svg": require("./google_play_icon.svg")
-  },
-  "itunes_icon": {
-    "svg": require("./itunes_icon.svg")
-  },
-  "opengraph_banner": {
-    "png": require("./opengraph_banner.png")
-  },
-  "soundcloud_icon": {
-    "svg": require("./soundcloud_icon.svg")
-  },
-  "spotify_icon": {
-    "svg": require("./spotify_icon.svg")
-  },
-  "tidal_icon": {
-    "svg": require("./tidal_icon.svg")
-  },
-  "typesense": {
-    "svg": require("./typesense.svg")
-  },
-  "youtube_icon": {
-    "svg": require("./youtube_icon.svg")
-  }
-};
-},{"./MusicBrainz_logo.svg":"images/MusicBrainz_logo.svg","./amazon_icon.svg":"images/amazon_icon.svg","./apple_music_icon.svg":"images/apple_music_icon.svg","./archive_icon.svg":"images/archive_icon.svg","./bandcamp_icon.svg":"images/bandcamp_icon.svg","./deezer_icon.svg":"images/deezer_icon.svg","./generic_song_link_icon.svg":"images/generic_song_link_icon.svg","./google_play_icon.svg":"images/google_play_icon.svg","./itunes_icon.svg":"images/itunes_icon.svg","./opengraph_banner.png":"images/opengraph_banner.png","./soundcloud_icon.svg":"images/soundcloud_icon.svg","./spotify_icon.svg":"images/spotify_icon.svg","./tidal_icon.svg":"images/tidal_icon.svg","./typesense.svg":"images/typesense.svg","./youtube_icon.svg":"images/youtube_icon.svg"}],"src/utils/stop_words.json":[function(require,module,exports) {
-module.exports = ["a", "am", "an", "and", "as", "at", "by", "c's", "co", "do", "eg", "et", "for", "he", "hi", "i", "i'd", "i'm", "ie", "if", "in", "inc", "is", "it", "its", "me", "my", "nd", "no", "non", "nor", "not", "of", "off", "oh", "ok", "on", "or", "per", "que", "qv", "rd", "re", "so", "sub", "t's", "th", "the", "to", "too", "two", "un", "up", "us", "vs", "we"];
-},{}],"src/app.js":[function(require,module,exports) {
+},{"@babel/runtime/helpers/interopRequireDefault":"node_modules/@babel/runtime/helpers/interopRequireDefault.js","@babel/runtime/regenerator":"node_modules/@babel/runtime/regenerator/index.js","@babel/runtime/helpers/asyncToGenerator":"node_modules/@babel/runtime/helpers/asyncToGenerator.js","@babel/runtime/helpers/classCallCheck":"node_modules/@babel/runtime/helpers/classCallCheck.js","@babel/runtime/helpers/createClass":"node_modules/@babel/runtime/helpers/createClass.js","./Configuration":"node_modules/typesense-instantsearch-adapter/lib/Configuration.js","typesense":"node_modules/typesense/lib/Typesense.js","./SearchRequestAdapter":"node_modules/typesense-instantsearch-adapter/lib/SearchRequestAdapter.js","./SearchResponseAdapter":"node_modules/typesense-instantsearch-adapter/lib/SearchResponseAdapter.js","./FacetSearchResponseAdapter":"node_modules/typesense-instantsearch-adapter/lib/FacetSearchResponseAdapter.js"}],"src/app.js":[function(require,module,exports) {
 "use strict";
 
 var _jquery = _interopRequireDefault(require("jquery"));
@@ -55578,10 +55498,6 @@ var _typesenseInstantsearchAdapter = _interopRequireDefault(require("typesense-i
 
 var _typesense = require("typesense");
 
-var _ = _interopRequireDefault(require("../images/*.*"));
-
-var _stop_words = _interopRequireDefault(require("./utils/stop_words.json"));
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -55596,6 +55512,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 window.$ = _jquery.default; // workaround for https://github.com/parcel-bundler/parcel/issues/333
 
+// To get the total number of docs
 var TYPESENSE_SERVER_CONFIG = {
   apiKey: "dPvh1byqz6JI2Ev9at4bM01k5kmNluhs",
   // Be sure to use an API key that only allows searches, in production
@@ -55695,38 +55612,10 @@ _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
   }, _callee);
 }))();
 
-function iconForUrlObject(urlObject) {
-  if (urlObject['type'] === 'amazon asin' || urlObject['url'].includes('amazon.com')) {
-    return _.default['amazon_icon']['svg'];
-  } else if (urlObject['url'].includes('spotify.com')) {
-    return _.default['spotify_icon']['svg'];
-  } else if (urlObject['url'].includes('itunes.apple.com')) {
-    return _.default['itunes_icon']['svg'];
-  } else if (urlObject['url'].includes('music.apple.com')) {
-    return _.default['apple_music_icon']['svg'];
-  } else if (urlObject['url'].includes('youtube.com')) {
-    return _.default['youtube_icon']['svg'];
-  } else if (urlObject['url'].includes('soundcloud.com')) {
-    return _.default['soundcloud_icon']['svg'];
-  } else if (urlObject['url'].includes('tidal.com') || urlObject['url'].includes('tidalhifi.com')) {
-    return _.default['tidal_icon']['svg'];
-  } else if (urlObject['url'].includes('play.google.com')) {
-    return _.default['google_play_icon']['svg'];
-  } else if (urlObject['url'].includes('bandcamp.com')) {
-    return _.default['bandcamp_icon']['svg'];
-  } else if (urlObject['url'].includes('deezer.com')) {
-    return _.default['deezer_icon']['svg'];
-  } else if (urlObject['url'].includes('archive.org')) {
-    return _.default['archive_icon']['svg'];
-  } else {
-    return _.default['generic_song_link_icon']['svg'];
-  }
-}
-
 function queryWithoutStopWords(query) {
   var words = query.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '').split(' ');
   return words.map(function (word) {
-    if (_stop_words.default.includes(word.toLowerCase())) {
+    if (STOP_WORDS.includes(word.toLowerCase())) {
       return null;
     } else {
       return word;
@@ -55768,18 +55657,6 @@ search.addWidgets([(0, _widgets.searchBox)({
   autofocus: true,
   cssClasses: {
     input: 'form-control'
-  },
-  queryHook: function queryHook(query, search) {
-    var modifiedQuery = queryWithoutStopWords(query);
-
-    if (modifiedQuery.trim() !== '') {
-      search(modifiedQuery);
-    }
-  }
-}), (0, _widgets.analytics)({
-  pushFunction: function pushFunction(formattedParameters, state, results) {
-    window.ga('set', 'page', (window.location.pathname + window.location.search).toLowerCase());
-    window.ga('send', 'pageView');
   }
 }), (0, _widgets.stats)({
   container: '#stats',
@@ -55925,7 +55802,7 @@ $(function () {
     });
   }
 });
-},{"jquery":"node_modules/jquery/dist/jquery.js","popper.js":"node_modules/popper.js/dist/esm/popper.js","bootstrap":"node_modules/bootstrap/dist/js/bootstrap.js","instantsearch.js/es":"node_modules/instantsearch.js/es/index.js","instantsearch.js/es/widgets":"node_modules/instantsearch.js/es/widgets/index.js","typesense-instantsearch-adapter":"node_modules/typesense-instantsearch-adapter/lib/TypesenseInstantsearchAdapter.js","typesense":"node_modules/typesense/lib/Typesense.js","../images/*.*":"images/*.*","./utils/stop_words.json":"src/utils/stop_words.json"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"jquery":"node_modules/jquery/dist/jquery.js","popper.js":"node_modules/popper.js/dist/esm/popper.js","bootstrap":"node_modules/bootstrap/dist/js/bootstrap.js","instantsearch.js/es":"node_modules/instantsearch.js/es/index.js","instantsearch.js/es/widgets":"node_modules/instantsearch.js/es/widgets/index.js","typesense-instantsearch-adapter":"node_modules/typesense-instantsearch-adapter/lib/TypesenseInstantsearchAdapter.js","typesense":"node_modules/typesense/lib/Typesense.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -55953,7 +55830,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58763" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55237" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
